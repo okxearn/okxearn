@@ -30,7 +30,7 @@ You can check on your staked positions in the “My earnings” section. From he
 
 ### Node Operation
 #### ORBS
-##### Company Information
+##### Contact Information
 1. Company name: Aux Cayes Fintech Co. Ltd
 2. Country: Seychelles
 3. Mailing address: Suite 202, 2nd Floor, Eden Plaza, Eden Island, P 0 Box 1352, Mahe, Seychelles
