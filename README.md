@@ -9,6 +9,7 @@ OKX Earn currently offers eight products for users to earn  with their cryptocur
 6. ETH 2.0 staking
 7. Jumpstart
 8. P2P lending
+
 This guide will walk you through each of these products and demonstrate how you can start using them to earn rewards. We’ve included instructions for both mobile and desktop users. If a product’s functionality is similar on both the website and application, the desktop instructions also apply to mobile users. 
 To access each Earn product, you’ll first need to enter the Earn section. 
 
